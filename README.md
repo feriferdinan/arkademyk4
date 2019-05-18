@@ -1,9 +1,15 @@
 # arkademyk4
 Jawaban Bootcamp Arkademy Batch 10 Kloter 4
 
-### Fungsi JSON pada REST API :
-* Yang pasti untuk berbagi data
-* Agar Mudah dibaca atau ditulis oleh komputer maupun manusia
+### API (Application Programming Interface) adalah:
+* Antarmuka yang berupa kumpulan fungsi yang  dapat dipanggil atau di jalankan oleh program lain (Penghubung).
+
+### Rest API (Representational state Transfer) adalah:
+* Gaya Arsitektural/Perancangan yang didalamnya mendefinisikan untuk membuat webservice.
+
+### Kegunaan JSON pada REST API :
+* Sebagai Format Pertukaran data.
+* Agar Mudah dibaca atau ditulis oleh komputer maupun manusia.
 * Request Menjadi cepat karena JSON lebih ringkas dari pada XML
 * Menggunakan data bersarang di dalam format JSON memungkinkan kita untuk bekerja pada data yang lebih kompleks.
 
